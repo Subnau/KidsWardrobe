@@ -14,6 +14,7 @@ namespace KidsWardrobe.Controllers
         [Authorize]
         public ActionResult Index()
         {
+            //empty comment
             return View();
         }
 
